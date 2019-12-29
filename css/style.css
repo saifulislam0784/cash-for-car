@@ -1,0 +1,157 @@
+header{
+	background: url(../img/banner.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.logo{
+	padding-top: 45px;
+	display: block;
+	max-width: 100;
+}
+
+.logo h2{
+	color: #fff;
+	font-size: 50px;
+	text-align: center;
+	padding: 10px 0px;
+	margin-top: 100px; 
+	background: #373736;
+}
+
+.logo p{
+	color: #fff;
+	font-size: 17px;
+	
+}
+
+.logo span{
+	border-bottom: 2px solid #fff;
+	display: block;
+	margin-top: 50px;
+	width: 5%
+}
+
+.btn{
+	background: transparent;
+	font-size: 18px;
+	color: white;
+	padding: 10px 40px;
+	border: 1px solid #fff;
+	margin: 20px 0px 200px 0px;
+
+}
+
+nav ul{
+	list-style: none;
+}
+
+nav ul li{
+	display: inline-block;
+	padding-top: 70px;
+}
+
+nav ul li a{
+	margin: 0px 30px;
+	color: #fff;
+	
+}
+
+.service{
+	padding: 50px 0px;
+}
+
+.service h2{
+
+}
+
+.service span{
+	border-bottom: 2px solid grey;
+	display: block;
+	margin-top: 20px;
+	width: 5%
+}
+
+.service p{
+	color: black;
+	font-size: 17px;
+	margin: 30px 0px;
+}
+
+.service img{
+	display: block;
+	margin: 60px 0px 0px 100px;
+}
+
+.title{
+	padding: 50px 0px;
+	background: #28282E;
+}
+
+.title h2{
+	color: #fff;
+}
+
+.title span{
+	border-bottom: 2px solid grey;
+	display: block;
+	margin-top: 20px;
+	width: 5%
+}
+
+.title p{
+	color: #fff;
+	font-size: 17px;
+	margin: 30px 0px;
+}
+
+.title img{
+	display: block;
+	margin: 100px 0px 0px 30px;
+}
+
+footer{
+	background: red;
+
+}
+
+footer p{
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	padding: 30px;
+}
+
+
+/*media query*/
+
+
+/*small device*/
+
+@media (min-width: 0px) and (max-width: 500px){
+
+	
+
+}
+
+/*netbook device*/
+
+@media (min-width: 500.01px) and (max-width: 768px){
+
+}
+
+/*dextop device*/
+
+@media (min-width: 768.01px) and (max-width: 992px){
+
+}
+
+/*larg device*/
+
+@media (min-width: 992.01px) and (max-width: 1200px){
+
+}
+
+@media (min-width: 1200.01px){
+
+}

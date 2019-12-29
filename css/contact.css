@@ -1,0 +1,99 @@
+.logo{
+	padding-top: 40px;
+	display: block;
+	max-width: 100;
+}
+
+nav ul{
+	list-style: none;
+}
+
+nav ul li{
+	display: inline-block;
+	padding-top: 60px;
+}
+
+nav ul li a{
+	margin: 0px 30px;
+	color: #7FA1B3;
+	
+}
+
+header span{
+	border-bottom: 5px solid #E4E4E4;
+	display: block;
+	margin-top: 30px;
+	width: 100%
+}
+
+.contact{
+	background-color: #F14838;
+	padding: 50px 0px;
+}
+
+.contact h2{
+	color: #fff;
+	margin-bottom: 20px;
+}
+
+.contact p{
+	color: #fff;
+	margin: 30px 0px;
+}
+
+.form-control{
+	background-color: #FF6153;
+	border: none;
+	width: 300px;
+}
+
+label{
+	color: #fff;
+	margin: 5px;
+}
+
+footer{
+	background: #F23E2C;
+
+}
+
+footer p{
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	padding: 30px;
+}
+
+
+/*media query*/
+
+
+/*small device*/
+
+@media (min-width: 0px) and (max-width: 500px){
+
+
+
+}
+
+/*netbook device*/
+
+@media (min-width: 500.01px) and (max-width: 768px){
+
+}
+
+/*dextop device*/
+
+@media (min-width: 768.01px) and (max-width: 992px){
+
+}
+
+/*larg device*/
+
+@media (min-width: 992.01px) and (max-width: 1200px){
+
+}
+
+@media (min-width: 1200.01px){
+
+}
